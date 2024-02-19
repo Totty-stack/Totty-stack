@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Totty-stack
 - 👀 I’m interested in Back-end developing 
-- 🌱 I’m currently learning software engineering at ALX Africa
+- 🌱 I’m currently learning software engineering at PLP Africa
 - 💞️ I’m looking to collaborate on coding projects 
 - 📫 How to reach me is through amimokoths97@gmail.com 
 
